@@ -55,6 +55,9 @@ a {
   text-decoration: none;
 }
 
+p {
+  margin: 20px 0;
+}
 .container {
   max-width: 600px;
   margin: auto;
@@ -65,6 +68,10 @@ a {
   align-items: ceter;
 }
 
+.wb-body {
+  background: #111;
+  padding: 20px;
+}
 .hidden {
   display: none;
 }
